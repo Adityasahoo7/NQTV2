@@ -44,7 +44,7 @@ namespace NQTV2
 
             for (int i = 0; i < num; i++) {
 
-                Console.Write("Enter the array valye of " + i + " Position : ");
+                Console.Write("Enter the array value of " + i + " Position/Index : ");
                 arr[i] = int.Parse(Console.ReadLine());
             
             
