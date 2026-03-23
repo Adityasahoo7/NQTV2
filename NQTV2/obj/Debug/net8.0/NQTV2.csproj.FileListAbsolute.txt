@@ -1,0 +1,14 @@
+D:\DotNet Project\NQTV2\NQTV2\bin\Debug\net8.0\NQTV2.exe
+D:\DotNet Project\NQTV2\NQTV2\bin\Debug\net8.0\NQTV2.deps.json
+D:\DotNet Project\NQTV2\NQTV2\bin\Debug\net8.0\NQTV2.runtimeconfig.json
+D:\DotNet Project\NQTV2\NQTV2\bin\Debug\net8.0\NQTV2.dll
+D:\DotNet Project\NQTV2\NQTV2\bin\Debug\net8.0\NQTV2.pdb
+D:\DotNet Project\NQTV2\NQTV2\obj\Debug\net8.0\NQTV2.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet Project\NQTV2\NQTV2\obj\Debug\net8.0\NQTV2.AssemblyInfoInputs.cache
+D:\DotNet Project\NQTV2\NQTV2\obj\Debug\net8.0\NQTV2.AssemblyInfo.cs
+D:\DotNet Project\NQTV2\NQTV2\obj\Debug\net8.0\NQTV2.csproj.CoreCompileInputs.cache
+D:\DotNet Project\NQTV2\NQTV2\obj\Debug\net8.0\NQTV2.dll
+D:\DotNet Project\NQTV2\NQTV2\obj\Debug\net8.0\refint\NQTV2.dll
+D:\DotNet Project\NQTV2\NQTV2\obj\Debug\net8.0\NQTV2.pdb
+D:\DotNet Project\NQTV2\NQTV2\obj\Debug\net8.0\NQTV2.genruntimeconfig.cache
+D:\DotNet Project\NQTV2\NQTV2\obj\Debug\net8.0\ref\NQTV2.dll
