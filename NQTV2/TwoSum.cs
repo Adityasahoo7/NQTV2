@@ -32,7 +32,7 @@ namespace NQTV2
 
             return new int[] { -1, -1 };
         }
-        public static void Main(string[] args) {
+        public static void Mainv1(string[] args) {
 
 
             Console.Write("Enter the targete value");
