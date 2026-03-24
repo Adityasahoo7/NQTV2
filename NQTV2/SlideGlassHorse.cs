@@ -40,7 +40,7 @@ namespace NQTV2
             Console.Write("Enter the number of Element in array : ");
             int num = int.Parse(Console.ReadLine());
 
-            Console.Write("Enter the Sum Amount : ");
+            Console.Write("Enter the total Sum Amount : ");
             int k = int.Parse(Console.ReadLine());
 
             int[] arr = new int[num];
