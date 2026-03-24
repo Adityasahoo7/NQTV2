@@ -28,7 +28,7 @@ namespace NQTV2
             return -1;
         }
 
-        public static void Main(string[] args) { 
+        public static void Mainv2(string[] args) { 
         
             Console.Write("Enter the size of array");
             int num = int.Parse(Console.ReadLine());

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\DotNet Project\\NQTV2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{206EF961-E006-43D3-BB43-21F610FC8F73}|NQTV2\\NQTV2.csproj|d:\\dotnet project\\nqtv2\\nqtv2\\slideglasshorse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{206EF961-E006-43D3-BB43-21F610FC8F73}|NQTV2\\NQTV2.csproj|solutionrelative:nqtv2\\slideglasshorse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{206EF961-E006-43D3-BB43-21F610FC8F73}|NQTV2\\NQTV2.csproj|d:\\dotnet project\\nqtv2\\nqtv2\\findduplicate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{206EF961-E006-43D3-BB43-21F610FC8F73}|NQTV2\\NQTV2.csproj|solutionrelative:nqtv2\\findduplicate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,19 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SlideGlassHorse.cs",
+              "DocumentMoniker": "D:\\DotNet Project\\NQTV2\\NQTV2\\SlideGlassHorse.cs",
+              "RelativeDocumentMoniker": "NQTV2\\SlideGlassHorse.cs",
+              "ToolTip": "D:\\DotNet Project\\NQTV2\\NQTV2\\SlideGlassHorse.cs",
+              "RelativeToolTip": "NQTV2\\SlideGlassHorse.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T06:20:52.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "FindDuplicate.cs",
               "DocumentMoniker": "D:\\DotNet Project\\NQTV2\\NQTV2\\FindDuplicate.cs",
               "RelativeDocumentMoniker": "NQTV2\\FindDuplicate.cs",
               "ToolTip": "D:\\DotNet Project\\NQTV2\\NQTV2\\FindDuplicate.cs",
               "RelativeToolTip": "NQTV2\\FindDuplicate.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAhwA4AAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAABAZmZmZmYSwCUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-23T06:30:34.4Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TwoSum.cs",
               "DocumentMoniker": "D:\\DotNet Project\\NQTV2\\NQTV2\\TwoSum.cs",
               "RelativeDocumentMoniker": "NQTV2\\TwoSum.cs",
@@ -47,12 +64,11 @@
               "RelativeToolTip": "NQTV2\\TwoSum.cs",
               "ViewState": "AgIAABgAAACAZmZmZmYSwCgAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T05:16:46.078Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-23T05:16:46.078Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DotNet Project\\NQTV2\\NQTV2\\Program.cs",
               "RelativeDocumentMoniker": "NQTV2\\Program.cs",
