@@ -8,5 +8,37 @@ namespace NQTV2
 {
     public class FirstNonRepeatChar
     {
+        public static char nonrepeat(string str)
+        {
+            Dictionary<char, int> freq = new Dictionary<char, int>();
+
+            
+            foreach(char ch in str)
+            {
+                if (freq.ContainsKey(ch))
+                {
+                    freq[ch]++;
+                }
+                else
+                {
+                    freq[ch] = 1;
+                }
+            }
+            foreach(char c in str)
+            {
+                if (freq[c] == 1) {
+                    return c;
+                }
+            }
+            return '\0';
+        }
+        public static void Main(string[] args)
+        {
+            Console.Write("Enter the String : ");
+            string str = Console.ReadLine();
+
+            char c = nonrepeat(str);
+            Console.Write(c);
+        }
     }
 }

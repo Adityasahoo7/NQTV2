@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NQTV2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f52de878470ed4de5c5aa04c063aed4b279d572e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a2a8fcb9eec2e6487bf18f2723f0191ff8b6392")]
 [assembly: System.Reflection.AssemblyProductAttribute("NQTV2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NQTV2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
