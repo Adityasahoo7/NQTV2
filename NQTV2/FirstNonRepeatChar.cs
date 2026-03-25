@@ -32,7 +32,7 @@ namespace NQTV2
             }
             return '\0';
         }
-        public static void Main(string[] args)
+        public static void Mainv4(string[] args)
         {
             Console.Write("Enter the String : ");
             string str = Console.ReadLine();
