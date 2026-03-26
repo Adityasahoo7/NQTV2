@@ -34,10 +34,11 @@ namespace NQTV2
         }
         public static void Mainv4(string[] args)
         {
-            Console.Write("Enter the String : ");
+            Console.Write("Enter the String  here: ");
             string str = Console.ReadLine();
 
             char c = nonrepeat(str);
+            Console.WriteLine("New String is ");
             Console.Write(c);
         }
     }
