@@ -30,7 +30,7 @@ namespace NQTV2
 
         return maxlength;
         }
-        public static void Main(string[] args)
+        public static void Mainv7(string[] args)
         {
             Console.Write("Enter the String : ");
             string str = Console.ReadLine();
