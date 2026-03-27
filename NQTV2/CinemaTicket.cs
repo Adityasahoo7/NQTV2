@@ -13,6 +13,11 @@ namespace NQTV2
         public static void Main(string[] args)
         {
             Console.WriteLine("Enter the number of people in the queue: ");
+            int num = int.Parse(Console.ReadLine());
+
+            int[] arr = new int[num];
+
+
         }
     }
 }

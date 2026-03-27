@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\DotNet Project\\NQTV2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{206EF961-E006-43D3-BB43-21F610FC8F73}|NQTV2\\NQTV2.csproj|d:\\dotnet project\\nqtv2\\nqtv2\\cinematicket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{206EF961-E006-43D3-BB43-21F610FC8F73}|NQTV2\\NQTV2.csproj|solutionrelative:nqtv2\\cinematicket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{206EF961-E006-43D3-BB43-21F610FC8F73}|NQTV2\\NQTV2.csproj|d:\\dotnet project\\nqtv2\\nqtv2\\longestsubstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{206EF961-E006-43D3-BB43-21F610FC8F73}|NQTV2\\NQTV2.csproj|solutionrelative:nqtv2\\longestsubstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,6 +47,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CinemaTicket.cs",
+              "DocumentMoniker": "D:\\DotNet Project\\NQTV2\\NQTV2\\CinemaTicket.cs",
+              "RelativeDocumentMoniker": "NQTV2\\CinemaTicket.cs",
+              "ToolTip": "D:\\DotNet Project\\NQTV2\\NQTV2\\CinemaTicket.cs",
+              "RelativeToolTip": "NQTV2\\CinemaTicket.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T15:57:15.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "LongestSubString.cs",
               "DocumentMoniker": "D:\\DotNet Project\\NQTV2\\NQTV2\\LongestSubString.cs",
               "RelativeDocumentMoniker": "NQTV2\\LongestSubString.cs",
@@ -55,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MoveZeroToEnd.cs",
               "DocumentMoniker": "D:\\DotNet Project\\NQTV2\\NQTV2\\MoveZeroToEnd.cs",
               "RelativeDocumentMoniker": "NQTV2\\MoveZeroToEnd.cs",
@@ -63,12 +80,11 @@
               "RelativeToolTip": "NQTV2\\MoveZeroToEnd.cs",
               "ViewState": "AgIAABcAAADwzMzMzMwYwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T07:23:39.244Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-25T07:23:39.244Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "FirstNonRepeatChar.cs",
               "DocumentMoniker": "D:\\DotNet Project\\NQTV2\\NQTV2\\FirstNonRepeatChar.cs",
               "RelativeDocumentMoniker": "NQTV2\\FirstNonRepeatChar.cs",
@@ -76,12 +92,11 @@
               "RelativeToolTip": "NQTV2\\FirstNonRepeatChar.cs",
               "ViewState": "AgIAABkAAAAgMzMzMzMjwCEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T06:59:22.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-24T06:59:22.844Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SlideGlassHorse.cs",
               "DocumentMoniker": "D:\\DotNet Project\\NQTV2\\NQTV2\\SlideGlassHorse.cs",
               "RelativeDocumentMoniker": "NQTV2\\SlideGlassHorse.cs",
@@ -93,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "FindDuplicate.cs",
               "DocumentMoniker": "D:\\DotNet Project\\NQTV2\\NQTV2\\FindDuplicate.cs",
               "RelativeDocumentMoniker": "NQTV2\\FindDuplicate.cs",
@@ -105,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "TwoSum.cs",
               "DocumentMoniker": "D:\\DotNet Project\\NQTV2\\NQTV2\\TwoSum.cs",
               "RelativeDocumentMoniker": "NQTV2\\TwoSum.cs",
@@ -117,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DotNet Project\\NQTV2\\NQTV2\\Program.cs",
               "RelativeDocumentMoniker": "NQTV2\\Program.cs",
