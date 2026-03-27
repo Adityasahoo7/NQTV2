@@ -17,6 +17,12 @@ namespace NQTV2
 
             int[] arr = new int[num];
 
+            for (int i = 0; i < num; i++) { 
+            
+            Console.WriteLine("Enter the bill of " + i + " person in the queue: ");
+                arr[i] = int.Parse(Console.ReadLine());
+            }
+
 
         }
     }
