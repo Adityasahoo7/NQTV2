@@ -19,7 +19,7 @@ namespace NQTV2
 
             for (int i = 0; i < num; i++) { 
             
-            Console.WriteLine("Enter the bill of " + i + " person in the queue: ");
+            Console.WriteLine("Enter the bill Amount of " + i + " person in the queue: ");
                 arr[i] = int.Parse(Console.ReadLine());
             }
 
